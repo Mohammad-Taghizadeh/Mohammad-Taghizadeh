@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 
 :link: Connect with me:
-![linkedin](https://user-images.githubusercontent.com/90376059/169706555-26e93b5d-594a-4126-92b1-c61d5cc827df.png)
+![linkedin](https://user-images.githubusercontent.com/90376059/169706619-e36185ed-f1d4-4012-813f-e5f624d90799.png)
+
 
 
 https://www.linkedin.com/in/mohammad-taghizadeh-aba429159
