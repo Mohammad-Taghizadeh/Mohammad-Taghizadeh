@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Hi 👋, I'm Mohammad Taghizadeh
+                               🔭 Hi 👋, I'm Mohammad Taghizadeh
 
-🌱 A passionate Flutter developer from Iran
+                          🌱 A passionate Flutter developer from Iran
                                                  
 :white_check_mark: Skilled in Mobile Application Development with Java and Flutter.
 
