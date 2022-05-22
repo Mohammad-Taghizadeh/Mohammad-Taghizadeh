@@ -1,5 +1,3 @@
-
-
 <!--
 **Mohammad-Taghizadeh/Mohammad-Taghizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                                              Hi 👋, I'm Mohammad Taghizadeh
-
                                          A passionate Flutter developer from Iran
                                                  
 :white_check_mark: Skilled in Mobile Application Development with Java and Flutter.
