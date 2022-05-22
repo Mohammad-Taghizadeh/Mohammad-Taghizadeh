@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: mohammad93p@yahoo.com
 
-
-:link: Connect with me:
-![linkedin](https://user-images.githubusercontent.com/90376059/169706619-e36185ed-f1d4-4012-813f-e5f624d90799.png)
-
-
+ Connect with me:
 
 https://www.linkedin.com/in/mohammad-taghizadeh-aba429159
