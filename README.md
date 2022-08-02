@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning everything about flutter
 
 📫 How to reach me: mohammad93p@yahoo.com
+
+
+ Connect with me:
+
+https://www.linkedin.com/in/mohammad-taghizadeh-aba429159
